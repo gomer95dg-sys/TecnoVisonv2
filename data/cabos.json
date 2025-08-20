@@ -8,7 +8,9 @@
   "bitola": 35,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000002",
@@ -19,7 +21,9 @@
   "bitola": 35,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000003",
@@ -30,7 +34,9 @@
   "bitola": 35,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000004",
@@ -41,7 +47,9 @@
   "bitola": 35,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000005",
@@ -52,7 +60,9 @@
   "bitola": 35,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000006",
@@ -65,7 +75,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000007",
@@ -78,7 +90,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "028757\/2025",
-  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA."
+  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA.",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-035-000008",
@@ -91,7 +105,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "028757\/2025",
-  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA."
+  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA.",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000001",
@@ -104,7 +120,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "027548\/2025",
-  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A"
+  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000002",
@@ -117,7 +135,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "027548\/2025",
-  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A"
+  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A",
+  "kg_m": 0.68,
+  "peso_total_kg": 17
  },
  {
   "id_patrimonio": "TECB-050-000003",
@@ -130,7 +150,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "027548\/2025",
-  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A"
+  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000004",
@@ -141,7 +163,9 @@
   "bitola": 50,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000005",
@@ -152,7 +176,9 @@
   "bitola": 50,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 17
  },
  {
   "id_patrimonio": "TECB-050-000006",
@@ -163,7 +189,9 @@
   "bitola": 50,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000007",
@@ -174,7 +202,9 @@
   "bitola": 50,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000008",
@@ -185,7 +215,9 @@
   "bitola": 50,
   "metros": 12.5,
   "classe_tensao": "12\/20kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 0.68,
+  "peso_total_kg": 8.5
  },
  {
   "id_patrimonio": "TECB-050-000009",
@@ -198,7 +230,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "027548\/2025",
-  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A"
+  "projeto": "20645 - ECORODOVIAS CONCESSOES E SERVICOS S\/A",
+  "kg_m": 0.68,
+  "peso_total_kg": 17
  },
  {
   "id_patrimonio": "TECB-050-000010",
@@ -211,7 +245,9 @@
   "classe_tensao": "12\/20kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 0.68,
+  "peso_total_kg": 34
  },
  {
   "id_patrimonio": "TECB-050-000011",
@@ -224,7 +260,9 @@
   "classe_tensao": "12\/20kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 0.68,
+  "peso_total_kg": 34
  },
  {
   "id_patrimonio": "TECB-050-000012",
@@ -237,7 +275,9 @@
   "classe_tensao": "20\/35kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 0.68,
+  "peso_total_kg": 34
  },
  {
   "id_patrimonio": "TECB-050-000013",
@@ -250,7 +290,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 0.68,
+  "peso_total_kg": 34
  },
  {
   "id_patrimonio": "TECB-070-000001",
@@ -261,7 +303,9 @@
   "bitola": 70,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 50
  },
  {
   "id_patrimonio": "TECB-070-000002",
@@ -272,7 +316,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000003",
@@ -283,7 +329,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000004",
@@ -294,7 +342,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000005",
@@ -305,7 +355,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "20\/35kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000006",
@@ -316,7 +368,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "20\/35kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000007",
@@ -327,7 +381,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "8,7\/15kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000008",
@@ -338,7 +394,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000009",
@@ -351,7 +409,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000010",
@@ -364,7 +424,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000011",
@@ -375,7 +437,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000012",
@@ -386,7 +450,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "8,7\/15kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000013",
@@ -399,7 +465,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000014",
@@ -410,7 +478,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000015",
@@ -421,7 +491,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000016",
@@ -432,7 +504,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000017",
@@ -443,7 +517,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000018",
@@ -454,7 +530,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000019",
@@ -467,7 +545,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000020",
@@ -480,7 +560,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000021",
@@ -493,7 +575,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000022",
@@ -506,7 +590,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000023",
@@ -519,7 +605,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000024",
@@ -530,7 +618,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000025",
@@ -541,7 +631,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000026",
@@ -552,7 +644,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000027",
@@ -563,7 +657,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000028",
@@ -574,7 +670,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-070-000029",
@@ -585,7 +683,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000030",
@@ -596,7 +696,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000031",
@@ -609,7 +711,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "014137\/2023",
-  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A."
+  "projeto": "13002 - HOSPITAL DE MEDICINA ESPECIALIZADA S.A.",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000032",
@@ -620,7 +724,9 @@
   "bitola": 70,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000033",
@@ -633,7 +739,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000034",
@@ -646,7 +754,9 @@
   "classe_tensao": "12\/20kV",
   "saude_ia": "Verde",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000035",
@@ -659,7 +769,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1,
+  "peso_total_kg": 12.5
  },
  {
   "id_patrimonio": "TECB-070-000036",
@@ -670,7 +782,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000037",
@@ -681,7 +795,9 @@
   "bitola": 70,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 25
  },
  {
   "id_patrimonio": "TECB-070-000038",
@@ -692,7 +808,9 @@
   "bitola": 70,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 50
  },
  {
   "id_patrimonio": "TECB-070-000039",
@@ -703,7 +821,9 @@
   "bitola": 70,
   "metros": 6,
   "classe_tensao": "12\/20kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1,
+  "peso_total_kg": 6
  },
  {
   "id_patrimonio": "TECB-095-000001",
@@ -882,7 +1002,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "024005\/2024",
-  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA."
+  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000002",
@@ -895,7 +1017,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "024005\/2024",
-  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA."
+  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000003",
@@ -908,7 +1032,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "024005\/2024",
-  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA."
+  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000004",
@@ -921,7 +1047,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "024005\/2024",
-  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA."
+  "projeto": "21202 - MINERADORA CONCRELUZ INOCENCIA LTDA.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000005",
@@ -932,7 +1060,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000006",
@@ -943,7 +1073,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000007",
@@ -954,7 +1086,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000008",
@@ -965,7 +1099,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000009",
@@ -976,7 +1112,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000010",
@@ -989,7 +1127,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000011",
@@ -1002,7 +1142,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000012",
@@ -1015,7 +1157,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000013",
@@ -1028,7 +1172,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000014",
@@ -1041,7 +1187,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000015",
@@ -1054,7 +1202,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000016",
@@ -1065,7 +1215,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000017",
@@ -1076,7 +1228,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000018",
@@ -1087,7 +1241,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000019",
@@ -1098,7 +1254,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000020",
@@ -1109,7 +1267,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000021",
@@ -1122,7 +1282,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000022",
@@ -1135,7 +1297,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028757\/2025",
-  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA."
+  "projeto": "11681 - ENGIE SOLUCOES DE OPERACAO E MANUTENCAO LTDA.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000023",
@@ -1148,7 +1312,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000024",
@@ -1161,7 +1327,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000025",
@@ -1174,7 +1342,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000026",
@@ -1187,7 +1357,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025123\/2024",
-  "projeto": "11167 - VOTORANTIM CIMENTOS S.A."
+  "projeto": "11167 - VOTORANTIM CIMENTOS S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000027",
@@ -1198,7 +1370,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000028",
@@ -1209,7 +1383,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000029",
@@ -1220,7 +1396,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000030",
@@ -1231,7 +1409,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000031",
@@ -1242,7 +1422,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000032",
@@ -1255,7 +1437,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000033",
@@ -1268,7 +1452,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000034",
@@ -1281,7 +1467,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000035",
@@ -1294,7 +1482,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000036",
@@ -1307,7 +1497,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000037",
@@ -1320,7 +1512,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000038",
@@ -1331,7 +1525,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000039",
@@ -1342,7 +1538,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000040",
@@ -1353,7 +1551,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000041",
@@ -1364,7 +1564,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000042",
@@ -1375,7 +1577,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000043",
@@ -1388,7 +1592,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000044",
@@ -1401,7 +1607,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000045",
@@ -1414,7 +1622,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000046",
@@ -1427,7 +1637,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025459\/2024",
-  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A"
+  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000047",
@@ -1440,7 +1652,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025459\/2024",
-  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A"
+  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000048",
@@ -1453,7 +1667,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "026404\/2025",
-  "projeto": "22914 - SIGMA EDUCACIONAL LTDA"
+  "projeto": "22914 - SIGMA EDUCACIONAL LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000049",
@@ -1464,7 +1680,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000050",
@@ -1475,7 +1693,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000051",
@@ -1486,7 +1706,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000052",
@@ -1497,7 +1719,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000053",
@@ -1508,7 +1732,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000054",
@@ -1521,7 +1747,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000055",
@@ -1534,7 +1762,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000056",
@@ -1547,7 +1777,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000057",
@@ -1560,7 +1792,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000058",
@@ -1573,7 +1807,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000059",
@@ -1586,7 +1822,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000060",
@@ -1597,7 +1835,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000061",
@@ -1608,7 +1848,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000062",
@@ -1619,7 +1861,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000063",
@@ -1630,7 +1874,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000064",
@@ -1641,7 +1887,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000065",
@@ -1654,7 +1902,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000066",
@@ -1667,7 +1917,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000067",
@@ -1680,7 +1932,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000068",
@@ -1693,7 +1947,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000069",
@@ -1706,7 +1962,9 @@
   "classe_tensao": "8,7\/15kV",
   "saude_ia": "Verde",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000070",
@@ -1719,7 +1977,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000071",
@@ -1730,7 +1990,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000072",
@@ -1741,7 +2003,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "8,7\/15kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000073",
@@ -1752,7 +2016,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000074",
@@ -1763,7 +2029,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000075",
@@ -1774,7 +2042,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000076",
@@ -1787,7 +2057,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025123\/2024",
-  "projeto": "11167 - VOTORANTIM CIMENTOS S.A."
+  "projeto": "11167 - VOTORANTIM CIMENTOS S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000077",
@@ -1800,7 +2072,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000078",
@@ -1813,7 +2087,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000079",
@@ -1826,7 +2102,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000080",
@@ -1839,7 +2117,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000081",
@@ -1852,7 +2132,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000082",
@@ -1863,7 +2145,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000083",
@@ -1874,7 +2158,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000084",
@@ -1885,7 +2171,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000085",
@@ -1896,7 +2184,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000086",
@@ -1907,7 +2197,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000087",
@@ -1920,7 +2212,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025459\/2024",
-  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A"
+  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000088",
@@ -1933,7 +2227,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025459\/2024",
-  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A"
+  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000089",
@@ -1946,7 +2242,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025459\/2024",
-  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A"
+  "projeto": "14496 - REDE MONTAGENS ELETROMECANICAS S\/A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000090",
@@ -1959,7 +2257,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025363\/2024",
-  "projeto": "2414 - ARCELORMITTAL PECEM S.A."
+  "projeto": "2414 - ARCELORMITTAL PECEM S.A.",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000091",
@@ -1972,7 +2272,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000092",
@@ -1985,7 +2287,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000093",
@@ -1996,7 +2300,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000094",
@@ -2007,7 +2313,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000095",
@@ -2018,7 +2326,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000096",
@@ -2029,7 +2339,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000097",
@@ -2040,7 +2352,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000098",
@@ -2053,7 +2367,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000099",
@@ -2066,7 +2382,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "009785\/2021",
-  "projeto": "5640 - LIBRAPORT CAMPINAS S.A"
+  "projeto": "5640 - LIBRAPORT CAMPINAS S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000100",
@@ -2079,7 +2397,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000101",
@@ -2092,7 +2412,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000102",
@@ -2105,7 +2427,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "015497\/2023",
-  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO"
+  "projeto": "13615 - BAHIA SECRETARIA DE SAUDE DO ESTADO",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000103",
@@ -2118,7 +2442,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "010302\/2021",
-  "projeto": "4262 - FUNDACAO RENOVA"
+  "projeto": "4262 - FUNDACAO RENOVA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000104",
@@ -2129,7 +2455,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000105",
@@ -2140,7 +2468,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000106",
@@ -2151,7 +2481,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000107",
@@ -2162,7 +2494,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000108",
@@ -2173,7 +2507,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000109",
@@ -2186,7 +2522,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000110",
@@ -2199,7 +2537,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000111",
@@ -2212,7 +2552,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000112",
@@ -2225,7 +2567,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000113",
@@ -2238,7 +2582,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000114",
@@ -2251,7 +2597,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000115",
@@ -2262,7 +2610,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000116",
@@ -2273,7 +2623,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000117",
@@ -2284,7 +2636,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000118",
@@ -2295,7 +2649,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000119",
@@ -2306,7 +2662,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000120",
@@ -2319,7 +2677,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000121",
@@ -2332,7 +2692,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000122",
@@ -2345,7 +2707,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000123",
@@ -2358,7 +2722,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000124",
@@ -2371,7 +2737,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "025624\/2024",
-  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A"
+  "projeto": "22282 - SMARTFIT ESCOLA DE GINASTICA E DANCA S.A",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000125",
@@ -2384,7 +2752,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000126",
@@ -2395,7 +2765,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000127",
@@ -2406,7 +2778,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000128",
@@ -2417,7 +2791,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000129",
@@ -2428,7 +2804,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000130",
@@ -2439,7 +2817,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000131",
@@ -2452,7 +2832,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000132",
@@ -2465,7 +2847,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000133",
@@ -2478,7 +2862,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000134",
@@ -2491,7 +2877,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000135",
@@ -2504,7 +2892,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000136",
@@ -2517,7 +2907,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000137",
@@ -2528,7 +2920,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000138",
@@ -2539,7 +2933,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000139",
@@ -2550,7 +2946,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000140",
@@ -2561,7 +2959,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000141",
@@ -2572,7 +2972,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000142",
@@ -2585,7 +2987,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000143",
@@ -2598,7 +3002,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000144",
@@ -2611,7 +3017,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000145",
@@ -2624,7 +3032,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000146",
@@ -2637,7 +3047,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000147",
@@ -2650,7 +3062,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000148",
@@ -2661,7 +3075,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000149",
@@ -2672,7 +3088,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000150",
@@ -2683,7 +3101,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000151",
@@ -2694,7 +3114,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000152",
@@ -2705,7 +3127,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000153",
@@ -2718,7 +3142,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000154",
@@ -2731,7 +3157,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000155",
@@ -2744,7 +3172,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000156",
@@ -2757,7 +3187,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000157",
@@ -2770,7 +3202,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "028445\/2025",
-  "projeto": "24540 - EBAZAR.COM.BR. LTDA"
+  "projeto": "24540 - EBAZAR.COM.BR. LTDA",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000158",
@@ -2783,7 +3217,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000159",
@@ -2794,7 +3230,9 @@
   "bitola": 120,
   "metros": 12.5,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 16
  },
  {
   "id_patrimonio": "TECB-120-000160",
@@ -2807,7 +3245,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000161",
@@ -2820,7 +3260,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000162",
@@ -2833,7 +3275,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000163",
@@ -2846,7 +3290,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000164",
@@ -2857,7 +3303,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000165",
@@ -2870,7 +3318,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000166",
@@ -2883,7 +3333,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000167",
@@ -2896,7 +3348,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000168",
@@ -2909,7 +3363,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000169",
@@ -2920,7 +3376,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000170",
@@ -2931,7 +3389,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000171",
@@ -2942,7 +3402,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000172",
@@ -2953,7 +3415,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000173",
@@ -2964,7 +3428,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000174",
@@ -2975,7 +3441,9 @@
   "bitola": 120,
   "metros": 50,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000175",
@@ -2986,7 +3454,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000176",
@@ -2997,7 +3467,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000177",
@@ -3008,7 +3480,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000178",
@@ -3019,7 +3493,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000179",
@@ -3030,7 +3506,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000180",
@@ -3041,7 +3519,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000181",
@@ -3054,7 +3534,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000182",
@@ -3067,7 +3549,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000183",
@@ -3080,7 +3564,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000184",
@@ -3091,7 +3577,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000185",
@@ -3102,7 +3590,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000186",
@@ -3115,7 +3605,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000187",
@@ -3128,7 +3620,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Amarelo",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000188",
@@ -3139,7 +3633,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000189",
@@ -3150,7 +3646,9 @@
   "bitola": 120,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 1.28,
+  "peso_total_kg": 32
  },
  {
   "id_patrimonio": "TECB-120-000190",
@@ -3163,7 +3661,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000191",
@@ -3176,7 +3676,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-120-000192",
@@ -3189,7 +3691,9 @@
   "classe_tensao": "1kV",
   "saude_ia": "Verde",
   "ficha": "029493\/2025",
-  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+  "projeto": "20481 - ARENA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+  "kg_m": 1.28,
+  "peso_total_kg": 64
  },
  {
   "id_patrimonio": "TECB-240-000001",
@@ -3200,7 +3704,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000002",
@@ -3211,7 +3717,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000003",
@@ -3222,7 +3730,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Amarelo"
+  "saude_ia": "Amarelo",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000004",
@@ -3233,7 +3743,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000005",
@@ -3244,7 +3756,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000006",
@@ -3255,7 +3769,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000007",
@@ -3266,7 +3782,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000008",
@@ -3277,7 +3795,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000009",
@@ -3288,7 +3808,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000010",
@@ -3299,7 +3821,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000011",
@@ -3310,7 +3834,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000012",
@@ -3321,7 +3847,9 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  },
  {
   "id_patrimonio": "TECB-240-000013",
@@ -3332,6 +3860,8 @@
   "bitola": 240,
   "metros": 25,
   "classe_tensao": "1kV",
-  "saude_ia": "Verde"
+  "saude_ia": "Verde",
+  "kg_m": 2.16,
+  "peso_total_kg": 54
  }
 ]
